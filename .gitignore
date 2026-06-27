@@ -1,0 +1,21 @@
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production.local
+frontend/.env.development.local
+
+# Backend
+backend/target/
+backend/.mvn/
+backend/*.log
+backend/local.properties
